@@ -20,7 +20,7 @@ class Program
 
 
 
-        Console.WriteLine("Какой продукт выберите?: ");
+        Console.WriteLine("КWhich product will you choose?: ");
         string Name = Console.ReadLine();
 
 
